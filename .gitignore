@@ -1,0 +1,15 @@
+*.pyc
+*.log
+
+build
+bin
+.DS_Store
+
+*.abs
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+
+*.bin
